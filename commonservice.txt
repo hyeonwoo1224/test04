@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 commonservice 기능
 =======
 a_branc 공통 기능 추가
 >>>>>>> a_branc
+=======
+b_branc 공통 기능 추가
+>>>>>>> b_branc
